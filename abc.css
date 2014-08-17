@@ -1,0 +1,53 @@
+body { 
+	padding: 60px; 
+	margin: 15px;
+}
+
+.jumbotron {
+	background-image: url(images/bg.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color: white;
+}
+
+.logo, .navbar-brand {
+	font-family: "Rock Salt", cursive;
+}
+.logo-name {
+	font-family: "Gloria Hallelujah", cursive;
+}
+
+#donate {
+	color: red;
+}
+
+#carousel {
+	max-width: 560px;
+	/*min-height: 244px;*/
+}
+
+h2:target {
+    padding-top: 65px;
+}
+
+h1 {
+	color: blue;
+	font-family: "Gloria Hallelujah", cursive;
+}
+
+h2, h3 {
+	color: red;
+	font-family: "Gloria Hallelujah", cursive;
+}
+
+.let-a {
+	color: #0000FF;
+}
+
+.let-b {
+	color: #FFCC00; 
+}
+
+.let-c {
+	color: #FF0000;
+}
